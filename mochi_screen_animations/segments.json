@@ -1,0 +1,90 @@
+[
+ {
+  "index": 1,
+  "name": "greeting_konnichiwa",
+  "description": "Chữ もち → こんにちは (xin chào), chớp mắt",
+  "start": 0.0,
+  "end": 6.8,
+  "file": "01_greeting_konnichiwa.mp4"
+ },
+ {
+  "index": 2,
+  "name": "hanging_ring",
+  "description": "Vòng treo (tay nắm) đung đưa",
+  "start": 6.8,
+  "end": 14.0,
+  "file": "02_hanging_ring.mp4"
+ },
+ {
+  "index": 3,
+  "name": "exclaim_text",
+  "description": "Chữ cảm thán “BABA!”",
+  "start": 14.0,
+  "end": 21.1,
+  "file": "03_exclaim_text.mp4"
+ },
+ {
+  "index": 4,
+  "name": "splash_hit",
+  "description": "Bị bắn nước, nheo mắt >_<",
+  "start": 21.1,
+  "end": 26.2,
+  "file": "04_splash_hit.mp4"
+ },
+ {
+  "index": 5,
+  "name": "fire_angry",
+  "description": "Giận bốc lửa, nền đỏ",
+  "start": 26.2,
+  "end": 30.2,
+  "file": "05_fire_angry.mp4"
+ },
+ {
+  "index": 6,
+  "name": "love_hearts",
+  "description": "Uống → say đắm, nhiều trái tim",
+  "start": 30.2,
+  "end": 36.8,
+  "file": "06_love_hearts.mp4"
+ },
+ {
+  "index": 7,
+  "name": "crying_tears",
+  "description": "Khóc chảy nước mắt",
+  "start": 36.8,
+  "end": 40.2,
+  "file": "07_crying_tears.mp4"
+ },
+ {
+  "index": 8,
+  "name": "golden_bar",
+  "description": "Thanh vàng ngang miệng",
+  "start": 40.2,
+  "end": 46.8,
+  "file": "08_golden_bar.mp4"
+ },
+ {
+  "index": 9,
+  "name": "hat_sparkle",
+  "description": "Mũ/tóc vàng lấp lánh, má hồng",
+  "start": 46.8,
+  "end": 52.1,
+  "file": "09_hat_sparkle.mp4"
+ },
+ {
+  "index": 10,
+  "name": "traffic_light",
+  "description": "Đèn giao thông đỏ → vàng → xanh",
+  "start": 52.1,
+  "end": 59.2,
+  "file": "10_traffic_light.mp4"
+ },
+ {
+  "index": 11,
+  "name": "flame_ears",
+  "description": "Lửa bốc lên hai bên",
+  "start": 59.2,
+  "end": 65.63,
+  "file": "11_flame_ears.mp4"
+ }
+]
