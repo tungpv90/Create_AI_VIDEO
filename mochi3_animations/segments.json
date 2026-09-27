@@ -1,0 +1,498 @@
+[
+ {
+  "index": 1,
+  "name": "red_glow_eyes",
+  "description": "Chớp mắt → mắt đỏ phát sáng dạng vòng tròn",
+  "start": 0.0,
+  "end": 9.2,
+  "file": "01_red_glow_eyes.mp4"
+ },
+ {
+  "index": 2,
+  "name": "speedometer",
+  "description": "Đồng hồ tốc độ, kim quay lên vạch đỏ",
+  "start": 9.2,
+  "end": 18.8,
+  "file": "02_speedometer.mp4"
+ },
+ {
+  "index": 3,
+  "name": "look_around",
+  "description": "Liếc nhìn sang hai bên",
+  "start": 18.8,
+  "end": 20.4,
+  "file": "03_look_around.mp4"
+ },
+ {
+  "index": 4,
+  "name": "squint_flat_eyes",
+  "description": "Mắt nheo dẹt (-_-)",
+  "start": 20.4,
+  "end": 22.7,
+  "file": "04_squint_flat_eyes.mp4"
+ },
+ {
+  "index": 5,
+  "name": "uwu_blush",
+  "description": "Mặt UwU má hồng",
+  "start": 22.7,
+  "end": 25.2,
+  "file": "05_uwu_blush.mp4"
+ },
+ {
+  "index": 6,
+  "name": "dark_hat_sparkle",
+  "description": "Mũ/tóc đen lấp lánh che mặt, má hồng",
+  "start": 25.2,
+  "end": 28.4,
+  "file": "06_dark_hat_sparkle.mp4"
+ },
+ {
+  "index": 7,
+  "name": "monster_fangs",
+  "description": "Lửa xanh + mặt quái vật răng nanh",
+  "start": 28.4,
+  "end": 31.0,
+  "file": "07_monster_fangs.mp4"
+ },
+ {
+  "index": 8,
+  "name": "suspicious_small_eyes",
+  "description": "Mắt hẹp nghi ngờ, miệng chấm",
+  "start": 31.0,
+  "end": 32.6,
+  "file": "08_suspicious_small_eyes.mp4"
+ },
+ {
+  "index": 9,
+  "name": "police_siren",
+  "description": "Đèn còi cảnh sát đỏ - xanh",
+  "start": 32.6,
+  "end": 37.2,
+  "file": "09_police_siren.mp4"
+ },
+ {
+  "index": 10,
+  "name": "laughing_xd",
+  "description": "Cười lớn >_< (XD)",
+  "start": 37.2,
+  "end": 39.0,
+  "file": "10_laughing_xd.mp4"
+ },
+ {
+  "index": 11,
+  "name": "heart_eyes_kiss",
+  "description": "Mắt trái tim → hôn gió (3)",
+  "start": 39.0,
+  "end": 41.7,
+  "file": "11_heart_eyes_kiss.mp4"
+ },
+ {
+  "index": 12,
+  "name": "sleeping_snot_bubble",
+  "description": "Ngủ gật, bong bóng mũi",
+  "start": 41.7,
+  "end": 49.5,
+  "file": "12_sleeping_snot_bubble.mp4"
+ },
+ {
+  "index": 13,
+  "name": "embarrassed_red_blush",
+  "description": "Ngượng >_< đỏ mặt → cười ^_^",
+  "start": 49.5,
+  "end": 52.1,
+  "file": "13_embarrassed_red_blush.mp4"
+ },
+ {
+  "index": 14,
+  "name": "glitch_shocked",
+  "description": "Sốc, mắt nhiễu RGB glitch",
+  "start": 52.1,
+  "end": 58.8,
+  "file": "14_glitch_shocked.mp4"
+ },
+ {
+  "index": 15,
+  "name": "fire_angry",
+  "description": "Giận bốc lửa, nền đỏ",
+  "start": 58.8,
+  "end": 61.6,
+  "file": "15_fire_angry.mp4"
+ },
+ {
+  "index": 16,
+  "name": "panic_sweat_shout",
+  "description": "Hoảng hốt, đổ mồ hôi, hét",
+  "start": 61.6,
+  "end": 66.3,
+  "file": "16_panic_sweat_shout.mp4"
+ },
+ {
+  "index": 17,
+  "name": "angry_vein",
+  "description": "Tức giận, gân nổi (💢)",
+  "start": 66.3,
+  "end": 70.0,
+  "file": "17_angry_vein.mp4"
+ },
+ {
+  "index": 18,
+  "name": "mochi_doc_logo",
+  "description": "Logo MD MOCHI-DOC",
+  "start": 70.0,
+  "end": 72.6,
+  "file": "18_mochi_doc_logo.mp4"
+ },
+ {
+  "index": 19,
+  "name": "happy_blush",
+  "description": "Vui vẻ ^^ má hồng",
+  "start": 72.6,
+  "end": 74.5,
+  "file": "19_happy_blush.mp4"
+ },
+ {
+  "index": 20,
+  "name": "bee_follow",
+  "description": "Mắt dõi theo con ong bay",
+  "start": 74.5,
+  "end": 83.5,
+  "file": "20_bee_follow.mp4"
+ },
+ {
+  "index": 21,
+  "name": "eyebrow_raise",
+  "description": "Nhướn mày",
+  "start": 83.5,
+  "end": 87.2,
+  "file": "21_eyebrow_raise.mp4"
+ },
+ {
+  "index": 22,
+  "name": "red_monster_roar",
+  "description": "Mặt quái vật đỏ gầm",
+  "start": 87.2,
+  "end": 95.4,
+  "file": "22_red_monster_roar.mp4"
+ },
+ {
+  "index": 23,
+  "name": "red_devil_eyes",
+  "description": "Mắt quỷ đỏ sọc ngang",
+  "start": 95.4,
+  "end": 99.4,
+  "file": "23_red_devil_eyes.mp4"
+ },
+ {
+  "index": 24,
+  "name": "sleepy_squint",
+  "description": "Lim dim, nheo mắt",
+  "start": 99.4,
+  "end": 102.2,
+  "file": "24_sleepy_squint.mp4"
+ },
+ {
+  "index": 25,
+  "name": "pong_game",
+  "description": "Trò chơi Pong bằng mắt",
+  "start": 102.2,
+  "end": 110.5,
+  "file": "25_pong_game.mp4"
+ },
+ {
+  "index": 26,
+  "name": "smug_cat",
+  "description": "Mặt mèo tinh nghịch, nháy mắt",
+  "start": 110.5,
+  "end": 115.9,
+  "file": "26_smug_cat.mp4"
+ },
+ {
+  "index": 27,
+  "name": "wheel_spin",
+  "description": "Mâm bánh xe quay",
+  "start": 115.9,
+  "end": 120.8,
+  "file": "27_wheel_spin.mp4"
+ },
+ {
+  "index": 28,
+  "name": "dash_text",
+  "description": "Chữ DASH đỏ + chuyển cảnh",
+  "start": 120.8,
+  "end": 127.3,
+  "file": "28_dash_text.mp4"
+ },
+ {
+  "index": 29,
+  "name": "angry_explosion",
+  "description": "Nổi giận bùng nổ",
+  "start": 127.3,
+  "end": 130.2,
+  "file": "29_angry_explosion.mp4"
+ },
+ {
+  "index": 30,
+  "name": "sad_cry",
+  "description": "Buồn → mếu khóc",
+  "start": 130.2,
+  "end": 132.8,
+  "file": "30_sad_cry.mp4"
+ },
+ {
+  "index": 31,
+  "name": "angry_vein_2",
+  "description": "Tức giận, gân nổi (lần 2)",
+  "start": 132.8,
+  "end": 134.1,
+  "file": "31_angry_vein_2.mp4"
+ },
+ {
+  "index": 32,
+  "name": "color_shift_eyes",
+  "description": "Mắt đổi màu liên tục",
+  "start": 134.1,
+  "end": 138.9,
+  "file": "32_color_shift_eyes.mp4"
+ },
+ {
+  "index": 33,
+  "name": "exclaim_text",
+  "description": "Chữ cảm thán đỏ “BABA!”",
+  "start": 138.9,
+  "end": 143.0,
+  "file": "33_exclaim_text.mp4"
+ },
+ {
+  "index": 34,
+  "name": "golden_bar",
+  "description": "Thanh vàng + mắt hồng",
+  "start": 143.0,
+  "end": 147.7,
+  "file": "34_golden_bar.mp4"
+ },
+ {
+  "index": 35,
+  "name": "sushi",
+  "description": "Gắp sushi chấm xì dầu",
+  "start": 147.7,
+  "end": 153.8,
+  "file": "35_sushi.mp4"
+ },
+ {
+  "index": 36,
+  "name": "pink_tears_burst",
+  "description": "Nước mắt hồng phun trào",
+  "start": 153.8,
+  "end": 156.7,
+  "file": "36_pink_tears_burst.mp4"
+ },
+ {
+  "index": 37,
+  "name": "hanging_ring",
+  "description": "Vòng đỏ treo (tay nắm) đung đưa",
+  "start": 156.7,
+  "end": 161.2,
+  "file": "37_hanging_ring.mp4"
+ },
+ {
+  "index": 38,
+  "name": "traffic_light",
+  "description": "Đèn giao thông đỏ → vàng → xanh",
+  "start": 161.2,
+  "end": 166.4,
+  "file": "38_traffic_light.mp4"
+ },
+ {
+  "index": 39,
+  "name": "blue_splash_1",
+  "description": "Bị bắn nước xanh (1)",
+  "start": 166.4,
+  "end": 169.7,
+  "file": "39_blue_splash_1.mp4"
+ },
+ {
+  "index": 40,
+  "name": "blue_splash_2",
+  "description": "Bị bắn nước xanh (2)",
+  "start": 169.7,
+  "end": 173.2,
+  "file": "40_blue_splash_2.mp4"
+ },
+ {
+  "index": 41,
+  "name": "omamori_keep_it_up",
+  "description": "Bùa 勝守 + “がんばれ KEEP IT UP!”",
+  "start": 173.2,
+  "end": 177.8,
+  "file": "41_omamori_keep_it_up.mp4"
+ },
+ {
+  "index": 42,
+  "name": "yawn",
+  "description": "Ngáp",
+  "start": 177.8,
+  "end": 182.8,
+  "file": "42_yawn.mp4"
+ },
+ {
+  "index": 43,
+  "name": "sleepy_wake",
+  "description": "Buồn ngủ → tỉnh dậy",
+  "start": 182.8,
+  "end": 185.8,
+  "file": "43_sleepy_wake.mp4"
+ },
+ {
+  "index": 44,
+  "name": "space_shooting_stars",
+  "description": "Không gian, sao băng, mắt màu",
+  "start": 185.8,
+  "end": 190.9,
+  "file": "44_space_shooting_stars.mp4"
+ },
+ {
+  "index": 45,
+  "name": "hologram_logo",
+  "description": "Màn hình logo hologram",
+  "start": 190.9,
+  "end": 195.5,
+  "file": "45_hologram_logo.mp4"
+ },
+ {
+  "index": 46,
+  "name": "crying_blue_tears",
+  "description": "Khóc nước mắt xanh, miệng đỏ",
+  "start": 195.5,
+  "end": 197.8,
+  "file": "46_crying_blue_tears.mp4"
+ },
+ {
+  "index": 47,
+  "name": "knife_slash",
+  "description": "Lưỡi dao chém",
+  "start": 197.8,
+  "end": 201.5,
+  "file": "47_knife_slash.mp4"
+ },
+ {
+  "index": 48,
+  "name": "lips_kiss",
+  "description": "Môi hôn",
+  "start": 201.5,
+  "end": 206.5,
+  "file": "48_lips_kiss.mp4"
+ },
+ {
+  "index": 49,
+  "name": "happy_closed_eyes",
+  "description": "Cười híp mắt ^^",
+  "start": 206.5,
+  "end": 209.4,
+  "file": "49_happy_closed_eyes.mp4"
+ },
+ {
+  "index": 50,
+  "name": "tears_streaming",
+  "description": "Nước mắt chảy dòng",
+  "start": 209.4,
+  "end": 213.6,
+  "file": "50_tears_streaming.mp4"
+ },
+ {
+  "index": 51,
+  "name": "crying_waterfall",
+  "description": "Khóc như thác",
+  "start": 213.6,
+  "end": 215.8,
+  "file": "51_crying_waterfall.mp4"
+ },
+ {
+  "index": 52,
+  "name": "blue_outline_eyes",
+  "description": "Mắt viền xanh dương",
+  "start": 215.8,
+  "end": 220.7,
+  "file": "52_blue_outline_eyes.mp4"
+ },
+ {
+  "index": 53,
+  "name": "love_hearts",
+  "description": "Say đắm, nhiều trái tim",
+  "start": 220.7,
+  "end": 224.1,
+  "file": "53_love_hearts.mp4"
+ },
+ {
+  "index": 54,
+  "name": "dizzy_spiral",
+  "description": "Chóng mặt, mắt xoắn ốc",
+  "start": 224.1,
+  "end": 230.2,
+  "file": "54_dizzy_spiral.mp4"
+ },
+ {
+  "index": 55,
+  "name": "goofy_drool",
+  "description": "Mặt ngố, chảy dãi",
+  "start": 230.2,
+  "end": 235.2,
+  "file": "55_goofy_drool.mp4"
+ },
+ {
+  "index": 56,
+  "name": "blue_flame_ears",
+  "description": "Lửa xanh bốc lên",
+  "start": 235.2,
+  "end": 239.0,
+  "file": "56_blue_flame_ears.mp4"
+ },
+ {
+  "index": 57,
+  "name": "laughing_big",
+  "description": "Cười to há miệng",
+  "start": 239.0,
+  "end": 241.4,
+  "file": "57_laughing_big.mp4"
+ },
+ {
+  "index": 58,
+  "name": "mochi_logo",
+  "description": "Logo MOCHI",
+  "start": 241.4,
+  "end": 249.4,
+  "file": "58_mochi_logo.mp4"
+ },
+ {
+  "index": 59,
+  "name": "fidget_look",
+  "description": "Cử động nhỏ >r< và nhìn quanh",
+  "start": 249.4,
+  "end": 256.2,
+  "file": "59_fidget_look.mp4"
+ },
+ {
+  "index": 60,
+  "name": "cool_sunglasses",
+  "description": "Ngầu với kính râm cam",
+  "start": 256.2,
+  "end": 260.4,
+  "file": "60_cool_sunglasses.mp4"
+ },
+ {
+  "index": 61,
+  "name": "equalizer",
+  "description": "Cột sóng nhạc (equalizer)",
+  "start": 260.4,
+  "end": 266.1,
+  "file": "61_equalizer.mp4"
+ },
+ {
+  "index": 62,
+  "name": "headlight_beams",
+  "description": "Mắt phát tia đèn pha",
+  "start": 266.1,
+  "end": 281.6,
+  "file": "62_headlight_beams.mp4"
+ }
+]
